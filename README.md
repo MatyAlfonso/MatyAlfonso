@@ -21,12 +21,15 @@
 <img align="left" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical" />
 <img align="left" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical" />
 
-[webpage]: https://github.com/MatyAlfonso/
-[linkedin]: https://www.linkedin.com/in/alfonso-matias/
-
 <br />
 <br />
 
 ### Connect with me: 
 [<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][webpage]
 [<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+
+<br />
+<br />
+
+[webpage]: https://github.com/MatyAlfonso/
+[linkedin]: https://www.linkedin.com/in/alfonso-matias/
