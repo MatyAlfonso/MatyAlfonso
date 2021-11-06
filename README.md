@@ -6,10 +6,11 @@
 
 🧑‍💻 I learned so many different languages ​​and tools, but I mainly use:
 
-● HTML,
-● CSS,
-● JavaScript,
-● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS).
+● HTML, <br />
+● CSS, <br />
+● JavaScript, <br />
+● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS). <br />
+
 
 🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
 
