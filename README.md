@@ -16,10 +16,9 @@
 <br />
 
 
-
-<br />
-<br />
-
 [<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[webpage]: https://www.tongashine.com/
+
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/alfonso-matias/
