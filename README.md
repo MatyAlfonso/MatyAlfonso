@@ -15,12 +15,11 @@
 
 <br />
 
-### Connect with me: 
-[<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][webpage]
+
+
+<br />
+<br />
+
 [<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-
-<br />
-<br />
-
 [webpage]: https://www.tongashine.com/
 [linkedin]: https://www.linkedin.com/in/alfonso-matias/
