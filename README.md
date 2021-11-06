@@ -26,6 +26,7 @@
 
 ---
 <img align="left" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical" />
 
 [webpage]: https://github.com/MatyAlfonso/
 [linkedin]: https://www.linkedin.com/in/alfonso-matias/
