@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Matias Alfonso.
 
-## Looking for my first job as Web Developer.
+### Looking for my first job as Web Developer.
 
 💪 I'm currently learning React Native and making some MERN projects to get better as a dev.
 
