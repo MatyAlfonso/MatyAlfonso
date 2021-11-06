@@ -13,7 +13,7 @@
 
 🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
 
-<br />
+🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and make some photos and videos and edit them.
 <br />
 
 ---
