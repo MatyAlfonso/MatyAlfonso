@@ -14,7 +14,24 @@
 🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
 
 🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and make some photos and videos and edit them.
+
 <br />
+
+---
+<img align="center" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical&hide=contribs,prs"/>
+<img align="center" alt="MatyAlfonso Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyAlfonso&show_icons=true&hide_border=true&theme=radical"/>
+<br />
+
+---
+### 📲 Connect with me: 
+[<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][webpage]
+[<img align="left" alt="MatyAlfonso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+
+<br />
+<br />
+
+[webpage]: https://github.com/MatyAlfonso/
+[linkedin]: https://www.linkedin.com/in/alfonso-matias/
 
 
 
