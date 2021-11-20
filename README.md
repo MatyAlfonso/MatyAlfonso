@@ -2,9 +2,9 @@
 
 ### Looking for my first job as Web Developer.
 
-💪 I'm currently learning React Native and making some MERN projects to get better as a dev.
+💪 Always learning. I'm currently learning React Native, TypeScript and making some projects to get better as a dev.
 
-🧑‍💻 I learned so many different languages ​​and tools, but I mainly use:
+🧑‍💻 I learned so many different languages and tools, but I mainly use:
 
 ● HTML, <br />
 ● CSS, <br />
@@ -13,7 +13,7 @@
 
 🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
 
-🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and make some photos and videos and edit them.
+🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and take good pictures of Italy from my Instagram.
 
 <br />
 
