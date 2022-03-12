@@ -1,8 +1,6 @@
-# Hi there 👋, I'm Matias Alfonso.
+# Hi there 👋, I'm Matias Alfonso, a Full Stack Web Developer.
 
 ### Looking for my first job as Web Developer.
-
-💪 Always learning. I'm currently learning React Native and NextJS, both with TypeScript.
 
 🧑‍💻 I learned so many different languages and tools, but I mainly use:
 
@@ -11,7 +9,9 @@
 ● JavaScript / TypeScript, <br />
 ● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) / NextJS. <br />
 
-🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
+💪 Always learning. I'm currently learning *React Native* and *NextJS*, both with *TypeScript*.
+
+🎀 I'm also interested in UI Design, because I'd rather be working as "Front End Developer", so I try to make good looking designs in my websites, designing first on Figma. 
 
 🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and take good pictures of Italy for my Instagram.
 
