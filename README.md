@@ -2,14 +2,14 @@
 
 ### Looking for my first job as Web Developer.
 
-💪 Always learning. I'm currently learning React Native, TypeScript and making some projects to get better as a dev.
+💪 Always learning. I'm currently learning React Native and NextJS, both with TypeScript.
 
 🧑‍💻 I learned so many different languages and tools, but I mainly use:
 
 ● HTML, <br />
 ● CSS, <br />
-● JavaScript, <br />
-● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS). <br />
+● JavaScript / TypeScript, <br />
+● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) / NextJS. <br />
 
 🎀 I'm also interested in UI Design, so I try to make good looking designs in my websites, designing first on Figma. 
 
