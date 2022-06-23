@@ -7,7 +7,7 @@
 ● HTML, <br />
 ● CSS, <br />
 ● JavaScript / TypeScript, <br />
-● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) <br />
 ● NextJS. <br />
 
 💪 I'm currently learning *React Native* and *NextJS*, both with *TypeScript*.
