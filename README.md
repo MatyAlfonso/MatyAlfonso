@@ -2,18 +2,19 @@
 
 ### Looking for my first job as Web Developer.
 
-🧑‍💻 I learned so many different languages and tools, but I mainly use:
+🧑‍💻 I have learned so many different languages and tools, but I mainly use:
 
 ● HTML, <br />
 ● CSS, <br />
 ● JavaScript / TypeScript, <br />
-● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) / NextJS. <br />
+● MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+● NextJS. <br />
 
-💪 Always learning. I'm currently learning *React Native* and *NextJS*, both with *TypeScript*.
+💪 I'm currently learning *React Native* and *NextJS*, both with *TypeScript*.
 
 🎀 I'm also interested in UI Design, because I'd rather be working as "Front End Developer", so I try to make good looking designs in my websites, designing first on Figma. 
 
-🕹️ As a hobby, I like to play video games, watch series and movies, listen to music, and take good pictures of Italy for my Instagram.
+🕹️ As a hobby, I like playing video games, watching series and movies, listening to music, and taking good pictures of Italy for my Instagram.
 
 <br />
 
